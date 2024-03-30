@@ -1,0 +1,16 @@
+{
+  "name": "sahm",
+  "version": "1.0.0",
+  "description": "portfolio management and equity research tool with AI powered insight. No more trudging through 10-Ks or other filings like a monkey. Get what you need to know.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "react": "^18.2.0"
+  }
+}
