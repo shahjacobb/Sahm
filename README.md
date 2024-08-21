@@ -1,4 +1,4 @@
-# AI Equity Research Assistant and Investor Hub
+# Sahm - AI Equity Research Assistant and Portfolio Management Hub
 Sahm is an AI-powered assistant for retail investors, providing stock analysis and portfolio management tools. It leverages GPT-4o mini to offer insights on financial data retrieved through yfinance. The project utilizes modern LLM features like function calling and structured JSON outputs for efficient data processing and presentation.
 ## Key Features
 - comprehensive single stock analysis
