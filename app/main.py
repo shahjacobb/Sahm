@@ -19,7 +19,7 @@ app.add_middleware(
 
 initialize_openai(os.getenv("OPENAI_API_KEY"))
 
-app.include_router(stock.router, prefix="/api", tags=["stock"])
+app.include_router(stock.router, prefix="/api/stock", tags=["stock"])
 
 @app.get("/")
 async def root():
