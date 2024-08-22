@@ -11,7 +11,7 @@ Sahm is an AI-powered assistant for retail investors, providing stock analysis a
 - structured JSON outputs for easy integration with other tools
 ## How It Works 
 the application uses GPT-4o mini to analyze stocks based on data retrieved from yfinance:
-- function calling enables dynamic retrieval of financial data
+- function calling enables dynamic retrieval of financial data and AI generated summaries of recent company news
 - structured JSON outputs provide standardized, easily parseable results
 - ai-generated insights offer analysis of company performance based on available metrics
 - integration with yfinance provides up-to-date basic company information
